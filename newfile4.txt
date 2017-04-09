@@ -5,4 +5,4 @@ line4
 line5
 
 conflict1
-conflict2
+conflict3
